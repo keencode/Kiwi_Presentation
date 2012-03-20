@@ -1,0 +1,3 @@
+[submodule "PhotoSection/Frameworks/Kiwi"]
+	path = PhotoSection/Frameworks/Kiwi
+	url = https://github.com/allending/Kiwi.git
