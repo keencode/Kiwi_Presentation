@@ -8,3 +8,15 @@ Book - Test Driving iOS Development with Kiwi by Daniel H Steinberg (http://dims
 Book URL: http://editorscut.com/Books/001kiwi/001kiwi-details.html
 Book Examples - https://github.com/editorscut/ec001-iOS-Testing-With-Kiwi
 RSpec - http://rspec.info/
+
+
+To make sure that the Kiwi submodule is downloaded, we initialize the submodule(s) with the following command:
+[user@office Kiwi_Presentation]$ git submodule init
+
+Then we need to run the update in order to pull down the files:
+[user@office Kiwi_Presentation]$ git submodule update
+
+Refer to this tutorial if you need further assistance:
+http://chrisjean.com/2009/04/20/git-submodules-adding-using-removing-and-updating/
+
+
