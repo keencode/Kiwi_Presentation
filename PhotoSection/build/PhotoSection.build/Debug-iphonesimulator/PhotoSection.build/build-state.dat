@@ -1,618 +1,0 @@
-TPhotoSection
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist PhotoSection/PhotoSection-Info.plist
-cProcessPCH /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection normal i386
-cGenerateDSYMFile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-cCopyStringsFile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings PhotoSection/en.lproj/InfoPlist.strings
-cCompileStoryboard /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard
-cTouch /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
-c000000004F453DF80000000000000110
-t1329937912
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004F611C960000000000244490
-t1331764374
-s2376848
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004F611C990000000000353830
-t1331764377
-s3487792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004F611CA20000000000905E40
-t1331764386
-s9461312
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/AppDelegate.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/AppDelegate.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/PhotoSection-Prefix.pch
-c000000004F67E6F40000000000000147
-t1332209396
-s327
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/ViewController.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/ViewController.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/en.lproj/InfoPlist.strings
-c000000004F67E6F4000000000000002D
-t1332209396
-s45
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard
-c000000004F67E6F4000000000000061C
-t1332209396
-s1564
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/main.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-t1332210052
-s204
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM
-t1332210052
-s102
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist
-t1332209522
-s862
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-t1332210052
-s17008
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PkgInfo
-t1332209522
-s8
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings
-t1332209525
-s42
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/MainStoryboard.storyboardc
-t1332209527
-s170
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o
-t1332210052
-s59324
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/PhotoSection.LinkFileList
-c000000004F67E98000000000000001AC
-t1332210048
-s428
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o
-t1332210052
-s45240
-
-N/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o
-t1332210052
-s3204
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/AppDelegate.m
-c000000004F67E6F40000000000000807
-t1332209396
-s2055
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/PhotoSection-Prefix.pch
-c000000004F67E6F40000000000000147
-t1332209396
-s327
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/ViewController.m
-c000000004F67E6F4000000000000029A
-t1332209396
-s666
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/en.lproj/InfoPlist.strings
-c000000004F67E6F4000000000000002D
-t1332209396
-s45
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard
-c000000004F67E6F4000000000000061C
-t1332209396
-s1564
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/main.m
-c000000004F67E6F40000000000000161
-t1332209396
-s353
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-t1332210052
-s204
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM
-t1332210052
-s102
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist
-t1332209522
-s862
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-t1332210052
-s17008
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PkgInfo
-t1332209522
-s8
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings
-t1332209525
-s42
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/MainStoryboard.storyboardc
-t1332209527
-s170
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o
-t1332210052
-s59324
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/PhotoSection.LinkFileList
-c000000004F67F0D300000000000001C1
-t1332211923
-s449
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o
-t1332210052
-s45240
-
-N/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o
-t1332210052
-s3204
-
-N/Users/peng/Desktop/PhotoSection/PhotoSection/AppDelegate.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/PhotoSection/PhotoSection/AppDelegate.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/PhotoSection/PhotoSection/PhotoSection-Prefix.pch
-c000000004F67E6F40000000000000147
-t1332209396
-s327
-
-N/Users/peng/Desktop/PhotoSection/PhotoSection/ViewController.h
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/PhotoSection/PhotoSection/ViewController.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/PhotoSection/PhotoSection/en.lproj/InfoPlist.strings
-c000000004F67E6F4000000000000002D
-t1332209396
-s45
-
-N/Users/peng/Desktop/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard
-c000000004F67E6F4000000000000061C
-t1332209396
-s1564
-
-N/Users/peng/Desktop/PhotoSection/PhotoSection/main.m
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-t1332209527
-s204
-
-N/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM
-t1332209525
-s102
-
-N/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist
-t1332209522
-s862
-
-N/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-t1332209525
-s16932
-
-N/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PkgInfo
-t1332209522
-s8
-
-N/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings
-t1332209525
-s42
-
-N/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/MainStoryboard.storyboardc
-t1332209527
-s170
-
-N/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o
-t1332209525
-s59292
-
-N/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/PhotoSection.LinkFileList
-c000000004F67E772000000000000018B
-t1332209522
-s395
-
-N/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o
-t1332209525
-s45208
-
-N/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o
-t1332209525
-s3168
-
-N/var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch.pth
-t2
-s0
-
-N/var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch.pth
-t1332209523
-s4029016
-
-N/var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch.pth
-t1332210051
-s4029104
-
-NPhotoSection/PhotoSection-Info.plist
-c000000004F67E6F400000000000004D8
-t1332209396
-s1240
-
-CBuild AST from "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/AppDelegate.m"
-r0
-
-CBuild AST from "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/ViewController.m"
-r0
-
-CBuild AST from "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/main.m"
-r0
-
-CBuild AST from /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/AppDelegate.m
-r0
-
-CBuild AST from /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/ViewController.m
-r0
-
-CBuild AST from /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/main.m
-r0
-
-CBuild AST from /Users/peng/Desktop/PhotoSection/PhotoSection/AppDelegate.m
-r0
-
-CBuild AST from /Users/peng/Desktop/PhotoSection/PhotoSection/ViewController.m
-r0
-
-CBuild AST from /Users/peng/Desktop/PhotoSection/PhotoSection/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd95a4b532818b541^f98553532818b541^---0#1#0#--18"Check dependencies36"EBCAE063-B897-4D31-B29A-B4BEE0BECF63-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353902851.788404
-e353902852.063757
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o
-x/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/AppDelegate.ma1f8c9032118b541^9f5710042118b541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/peng/Desktop/Kiwi%20Preso/PhotoSection/PhotoSection/AppDelegate.m0000000000000000^3466"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o PhotoSection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/peng/Desktop/Kiwi Preso/PhotoSection"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap" -iquote "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/include" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources" "-F/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator" -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch -MMD -MT dependencies -MF "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/AppDelegate.m" -o "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o"36"E69D8EA3-F68F-4E15-96C3-0AE529E96751-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353904724.631830
-e353904725.228339
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o
-x/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/AppDelegate.m5af1a1542818b541^d1743a552818b541^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/AppDelegate.m0000000000000000^3531"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o PhotoSection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap -iquote /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/include -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386 -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources -F/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch -MMD -MT dependencies -MF /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.dia -c /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/AppDelegate.m -o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o36"117632D4-1D76-4155-B23B-7C6EE8B757CD-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o /Users/peng/Desktop/PhotoSection/PhotoSection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353902323.798524
-e353902325.252419
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o
-x/Users/peng/Desktop/PhotoSection/PhotoSection/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/peng/Desktop/PhotoSection/PhotoSection/AppDelegate.m36c8ccf31e18b541^0e9f40f51e18b541^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/peng/Desktop/PhotoSection/PhotoSection/AppDelegate.m0000000000000000^3297"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o PhotoSection/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peng/Desktop/PhotoSection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap -iquote /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap -I/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/include -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386 -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources -F/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch -MMD -MT dependencies -MF /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.dia -c /Users/peng/Desktop/PhotoSection/PhotoSection/AppDelegate.m -o /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/AppDelegate.o36"24AB3344-002B-480B-AE82-439BCFB86724-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353902852.064917
-e353902852.114207
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o
-x/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/ViewController.m59c010042118b541^103d1d042118b541^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/peng/Desktop/Kiwi%20Preso/PhotoSection/PhotoSection/ViewController.m0000000000000000^3484"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o PhotoSection/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/peng/Desktop/Kiwi Preso/PhotoSection"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap" -iquote "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/include" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources" "-F/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator" -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch -MMD -MT dependencies -MF "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.dia" -c "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/ViewController.m" -o "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o"36"13A24C59-374E-4055-BE6A-84B16CD33E56-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353904724.997631
-e353904725.228877
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o
-x/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/ViewController.m268bff542818b541^7d973a552818b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/ViewController.m0000000000000000^3549"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o PhotoSection/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap -iquote /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/include -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386 -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources -F/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch -MMD -MT dependencies -MF /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.dia -c /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/ViewController.m -o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o36"E0C45B33-1C23-4C56-BA6F-F5AB7BC7F195-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o /Users/peng/Desktop/PhotoSection/PhotoSection/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353902325.241657
-e353902325.301780
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o
-x/Users/peng/Desktop/PhotoSection/PhotoSection/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/peng/Desktop/PhotoSection/PhotoSection/ViewController.m8bfd3df51e18b541^63414df51e18b541^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/peng/Desktop/PhotoSection/PhotoSection/ViewController.m0000000000000000^3315"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o PhotoSection/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peng/Desktop/PhotoSection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap -iquote /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap -I/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/include -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386 -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources -F/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch -MMD -MT dependencies -MF /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.dia -c /Users/peng/Desktop/PhotoSection/PhotoSection/ViewController.m -o /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/ViewController.o36"34D705E0-4AE4-4D2F-B5FC-F7153137E0F7-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353902851.787881
-e353902852.063669
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o
-x/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/main.m7adec9032118b541^094f10042118b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/peng/Desktop/Kiwi%20Preso/PhotoSection/PhotoSection/main.m0000000000000000^3424"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o PhotoSection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/peng/Desktop/Kiwi Preso/PhotoSection"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap" -iquote "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/include" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources" "-F/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator" -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch -MMD -MT dependencies -MF "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.dia" -c "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/main.m" -o "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o"36"9019D36B-5EC9-4B6E-B3FF-B00259792380-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353904724.631821
-e353904724.996313
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o
-x/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/main.m39f1a1542818b541^de1fff542818b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/main.m0000000000000000^3489"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o PhotoSection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap -iquote /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/include -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386 -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources -F/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch -MMD -MT dependencies -MF /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.dia -c /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/main.m -o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o36"68A6B9F7-6543-4452-88B4-94A603C9A31A-
-
-CCompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o /Users/peng/Desktop/PhotoSection/PhotoSection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353902323.798519
-e353902325.240382
-r1
-xCompileC
-xbuild/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o
-x/Users/peng/Desktop/PhotoSection/PhotoSection/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/peng/Desktop/PhotoSection/PhotoSection/main.mdc9eccf31e18b541^e3883df51e18b541^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/peng/Desktop/PhotoSection/PhotoSection/main.m0000000000000000^3255"CompileC build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o PhotoSection/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peng/Desktop/PhotoSection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap -iquote /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap -I/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/include -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386 -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources -F/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator -include /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch -MMD -MT dependencies -MF /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.dia -c /Users/peng/Desktop/PhotoSection/PhotoSection/main.m -o /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/main.o36"4CAB15B6-27CB-4B85-B153-BDDD5A990C19-
-
-CCompileStoryboard "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard"
-r0
-
-CCompileStoryboard /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard
-r0
-
-CCompileStoryboard /Users/peng/Desktop/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard
-s353902325.986355
-e353902327.041594
-r1
-xCompileStoryboard
-x/Users/peng/Desktop/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"CompileStoryboard PhotoSection/en.lproj/MainStoryboard.storyboard959bfcf51e18b541^bebe0af71e18b541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/peng/Desktop/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard0000000000000000^896"CompileStoryboard PhotoSection/en.lproj/MainStoryboard.storyboard    cd /Users/peng/Desktop/PhotoSection    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/MainStoryboard.storyboardc /Users/peng/Desktop/PhotoSection/PhotoSection/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"4D63EB00-F42A-4466-9CB5-D02D9B38F057-
-
-CCopyStringsFile "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings" PhotoSection/en.lproj/InfoPlist.strings
-r0
-
-CCopyStringsFile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings PhotoSection/en.lproj/InfoPlist.strings
-r0
-
-CCopyStringsFile /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings PhotoSection/en.lproj/InfoPlist.strings
-s353902325.985897
-e353902325.990209
-r1
-xCopyStringsFile
-x/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings
-xPhotoSection/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy PhotoSection/en.lproj/InfoPlist.strings7593fcf51e18b541^897efdf51e18b541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/peng/Desktop/PhotoSection/PhotoSection/en.lproj/InfoPlist.strings0000000000000000^583"CopyStringsFile build/Debug-iphonesimulator/PhotoSection.app/en.lproj/InfoPlist.strings PhotoSection/en.lproj/InfoPlist.strings    cd /Users/peng/Desktop/PhotoSection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/en.lproj -- PhotoSection/en.lproj/InfoPlist.strings36"65078ED7-4F1B-4155-A8ED-85E585DD2D6C-
-
-CGenerateDSYMFile "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM" "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection"
-s353902852.330202
-e353902852.496115
-r1
-xGenerateDSYMFile
-x/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM
-x/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Generating /Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM16a554042118b541^58007f042118b541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/peng/Desktop/Kiwi%20Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM/0000000000000000^685"GenerateDSYMFile build/Debug-iphonesimulator/PhotoSection.app.dSYM build/Debug-iphonesimulator/PhotoSection.app/PhotoSection    cd "/Users/peng/Desktop/Kiwi Preso/PhotoSection"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection" -o "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM"36"61BDB373-7013-4C1E-859B-E0B9A8323C84-
-
-CGenerateDSYMFile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-s353904725.512072
-e353904725.531673
-r1
-xGenerateDSYMFile
-x/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM
-x/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generating /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM282a83552818b541^072588552818b541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM/0000000000000000^700"GenerateDSYMFile build/Debug-iphonesimulator/PhotoSection.app.dSYM build/Debug-iphonesimulator/PhotoSection.app/PhotoSection    cd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection -o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM36"C55420E2-6D7F-4AF8-9248-D1078C4F7F7F-
-
-CGenerateDSYMFile /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-s353902325.841781
-e353902325.977138
-r1
-xGenerateDSYMFile
-x/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM
-x/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Generating /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYMf695d7f51e18b541^b725faf51e18b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM000000000080d041^646"GenerateDSYMFile build/Debug-iphonesimulator/PhotoSection.app.dSYM build/Debug-iphonesimulator/PhotoSection.app/PhotoSection    cd /Users/peng/Desktop/PhotoSection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection -o /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app.dSYM36"7A253615-8F65-4C5C-BF9F-068181691157-
-
-CLd "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection" normal i386
-s353902852.120850
-e353902852.322587
-r1
-xLd
-x/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection57081f042118b541^b89552042118b541^---0#0#0#--1231"Ld build/Debug-iphonesimulator/PhotoSection.app/PhotoSection normal i386    cd "/Users/peng/Desktop/Kiwi Preso/PhotoSection"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator" "-F/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator" -filelist "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/PhotoSection.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection"36"E1C31B11-9E11-41B3-B22F-3067A461383A-
-
-CLd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection normal i386
-s353904725.236016
-e353904725.505780
-r1
-xLd
-x/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection3b893c552818b541^238681552818b541^---0#0#0#--1256"Ld build/Debug-iphonesimulator/PhotoSection.app/PhotoSection normal i386    cd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator -F/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator -filelist /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/PhotoSection.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection36"1DEA51D2-0063-4D5D-BE5B-5060396A758E-
-
-CLd /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection normal i386
-s353902325.308743
-e353902325.834921
-r1
-xLd
-x/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection46274ff51e18b541^86c8d5f51e18b541^---0#0#0#--1166"Ld build/Debug-iphonesimulator/PhotoSection.app/PhotoSection normal i386    cd /Users/peng/Desktop/PhotoSection    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator -F/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator -filelist /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/Objects-normal/i386/PhotoSection.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PhotoSection36"D4A33F02-2B8B-4D98-8C7E-7668ADE5051F-
-
-CProcessInfoPlistFile "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist" PhotoSection/PhotoSection-Info.plist
-r0
-
-CProcessInfoPlistFile /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist PhotoSection/PhotoSection-Info.plist
-r0
-
-CProcessInfoPlistFile /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist PhotoSection/PhotoSection-Info.plist
-s353902322.980910
-e353902322.987196
-r1
-xProcessInfoPlistFile
-x/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist
-xPhotoSection/PhotoSection-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process PhotoSection/PhotoSection-Info.plist5038fbf21e18b541^2bc3fcf21e18b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/peng/Desktop/PhotoSection/PhotoSection/PhotoSection-Info.plist0000000000000000^667"ProcessInfoPlistFile build/Debug-iphonesimulator/PhotoSection.app/Info.plist PhotoSection/PhotoSection-Info.plist    cd /Users/peng/Desktop/PhotoSection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PhotoSection/PhotoSection-Info.plist -genpkginfo /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app/Info.plist36"387507E2-14C2-42B0-A1ED-E49F56C29842-
-
-CProcessPCH /Users/peng/Library/Developer/Xcode/DerivedData/PhotoSection-bvvsjqtnfgobjmdvonmpcisdnodv/Index/PrecompiledHeaders/PhotoSection-Prefix-byodaneoqhzyrvawevsemrokzqip_ast/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/peng/Library/Developer/Xcode/DerivedData/PhotoSection-enozotxcpmnumremvrximhbmaqci/Index/PrecompiledHeaders/PhotoSection-Prefix-ebpmwvamcssnmtgwiucwuurcsqtm_ast/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/peng/Library/Developer/Xcode/DerivedData/PhotoSection-epevqjcnpuulswcucyaoxuxuerpg/Index/PrecompiledHeaders/PhotoSection-Prefix-dlgmsiknpkpvdbabjawyafspmhww_ast/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353904723.468214
-e353904724.624203
-r1
-xProcessPCH
-x/var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch.pth
-xPhotoSection/PhotoSection-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile PhotoSection/PhotoSection-Prefix.pch62f977532818b541^e355f2542818b541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/PhotoSection-Prefix.pch0000000000000000^3511"ProcessPCH /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap -iquote /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/include -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386 -I/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources -F/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch.dia -c /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/PhotoSection/PhotoSection-Prefix.pch -o /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-dudqwjfizmjxpfakrznfcizzduzf/PhotoSection-Prefix.pch.d36"8C3ADBCF-0422-472C-9EC8-F5EE18FA9E14-
-
-CProcessPCH /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353902322.996570
-e353902323.791157
-r1
-xProcessPCH
-x/var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch.pth
-xPhotoSection/PhotoSection-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile PhotoSection/PhotoSection-Prefix.pchc975fff21e18b541^5988caf31e18b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/peng/Desktop/PhotoSection/PhotoSection/PhotoSection-Prefix.pch0000000000000000^3331"ProcessPCH /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/peng/Desktop/PhotoSection    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap -iquote /Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap -I/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/include -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386 -I/Users/peng/Desktop/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources -F/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch.dia -c /Users/peng/Desktop/PhotoSection/PhotoSection/PhotoSection-Prefix.pch -o /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-ecjidxgbhjqeslembgqxpohjvspp/PhotoSection-Prefix.pch.d36"72FFD951-A098-4292-B44D-551E77B6461B-
-
-CProcessPCH /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s353902849.090760
-e353902851.780795
-r1
-xProcessPCH
-x/var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch.pth
-xPhotoSection/PhotoSection-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile PhotoSection/PhotoSection-Prefix.pch4a6017012118b541^4ef2c7032118b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/peng/Desktop/Kiwi%20Preso/PhotoSection/PhotoSection/PhotoSection-Prefix.pch0000000000000000^3461"ProcessPCH /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch.pth PhotoSection/PhotoSection-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/peng/Desktop/Kiwi Preso/PhotoSection"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-generated-files.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-own-target-headers.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-all-target-headers.hmap" -iquote "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/PhotoSection-project-headers.hmap" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/include" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources/i386" "-I/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/PhotoSection.build/Debug-iphonesimulator/PhotoSection.build/DerivedSources" "-F/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch.dia -c "/Users/peng/Desktop/Kiwi Preso/PhotoSection/PhotoSection/PhotoSection-Prefix.pch" -o /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_q/g1dz4rlx6lb4bjr5c908hwcc0000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/PhotoSection-Prefix-gptynwtinbhouzfrpaovxcbuxivw/PhotoSection-Prefix.pch.d36"24923AF6-949F-42E4-A1F5-CBA707DD509E-
-
-CTouch "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app"
-s353902852.511933
-e353902852.568849
-r1
-xTouch
-x/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.appaf2283042118b541^b29f91042118b541^---0#0#0#--412"Touch build/Debug-iphonesimulator/PhotoSection.app    cd "/Users/peng/Desktop/Kiwi Preso/PhotoSection"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/peng/Desktop/Kiwi Preso/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app"36"442DB834-D4AD-48A0-86B2-923ED62B5E07-
-
-CTouch /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-s353904725.741821
-e353904725.774273
-r1
-xTouch
-x/Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app7bf9bd552818b541^1040c6552818b541^---0#0#0#--422"Touch build/Debug-iphonesimulator/PhotoSection.app    cd /Users/peng/Desktop/Kiwi_Presentation/PhotoSection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/peng/Desktop/Kiwi_Presentation/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app36"BB391220-E554-468E-89AB-CFB728115D80-
-
-CTouch /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-s353902327.050329
-e353902327.088670
-r1
-xTouch
-x/Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Touch /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.appdcf30cf71e18b541^62c016f71e18b541^---0#0#0#--386"Touch build/Debug-iphonesimulator/PhotoSection.app    cd /Users/peng/Desktop/PhotoSection    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/peng/Desktop/PhotoSection/build/Debug-iphonesimulator/PhotoSection.app36"DB5A3943-45F9-48AB-A638-37C27D940C49-
-

@@ -1,4 +1,7 @@
-This repository contains my presentation on the Kiwi test framework for the New York iOS Developer Meetup 3/20/12.
+Introduction to the Kiwi test framework 
+=======================================
+
+## New York iOS Developer Meetup 3/20/12.
 
 This project is a working example of the Kiwi setup guide at https://github.com/allending/Kiwi/wiki/Guide:-Up-and-Running-with-Kiwi.
 
@@ -9,6 +12,7 @@ Book URL: http://editorscut.com/Books/001kiwi/001kiwi-details.html
 Book Examples - https://github.com/editorscut/ec001-iOS-Testing-With-Kiwi
 RSpec - http://rspec.info/
 
+## Adding the Kiwi submodule
 
 To make sure that the Kiwi submodule is downloaded, we initialize the submodule(s) with the following command:
 [user@office Kiwi_Presentation]$ git submodule init
