@@ -10,7 +10,7 @@ This project is a working example of the Kiwi setup guide at https://github.com/
 Repo - https://github.com/allending/Kiwi  
 Wiki - https://github.com/allending/Kiwi/wiki  
 Book - Test Driving iOS Development with Kiwi by Daniel H Steinberg (http://dimsumthinking.com/2012/02/23/using-kiwi/)  
-Book URL: http://editorscut.com/Books/001kiwi/001kiwi-details.html  
+Book URL - http://editorscut.com/Books/001kiwi/001kiwi-details.html  
 Book Examples - https://github.com/editorscut/ec001-iOS-Testing-With-Kiwi  
 RSpec - http://rspec.info/  
 
