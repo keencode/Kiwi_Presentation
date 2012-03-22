@@ -3,8 +3,9 @@ Introduction to the Kiwi test framework
 
 ### New York iOS Developer Meetup 3/20/12
 
-This project is a working example of the Kiwi setup guide at:  
-https://github.com/allending/Kiwi/wiki/Guide:-Up-and-Running-with-Kiwi
+This project is a working example of the Kiwi setup guide at https://github.com/allending/Kiwi/wiki/Guide:-Up-and-Running-with-Kiwi
+
+### Useful links
 
 Repo - https://github.com/allending/Kiwi  
 Wiki - https://github.com/allending/Kiwi/wiki  
