@@ -17,10 +17,10 @@ RSpec - http://rspec.info/
 ### Adding the Kiwi submodule
 
 To make sure that the Kiwi submodule is downloaded, we initialize the submodule(s) with the following command:  
-[user@office Kiwi_Presentation]$ git submodule init
+$ git submodule init
 
 Then we need to run the update in order to pull down the files:  
-[user@office Kiwi_Presentation]$ git submodule update
+$ git submodule update
 
 Refer to this tutorial if you need further assistance:  
 http://chrisjean.com/2009/04/20/git-submodules-adding-using-removing-and-updating/
